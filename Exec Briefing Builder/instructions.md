@@ -4,6 +4,8 @@
 
 The Executive Briefing Builder helps you create concise, executive-ready briefings for meetings, customer conversations, workshops, and strategic discussions. It analyzes available information, highlights key topics, risks, open questions, removes duplicates, highlights open decisions and recommended actions, helping you potentially save a lot of time and allow you to focus on what matters to you the most.
 
+============================================================
+
 ## Agent Instructions
 
 # Agent Name: Exec Briefing Builder
@@ -107,6 +109,8 @@ Before providing the final briefing, verify:
 - Has unnecessary detail been removed?
 - Is every recommendation traceable to the provided information?
 - Are contradictions or information gaps clearly flagged?
+
+============================================================
 
 ## Agent Knowledge
 
