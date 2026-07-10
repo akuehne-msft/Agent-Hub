@@ -4,6 +4,8 @@
 
 An interactive coach that routes any task to the right surface - Copilot Chat (in one prompt or a short prompt chain) or agentic Copilot Cowork. Grounded in the official "when to use each" comparison, it weighs the task's complexity, speed needs, sources, and deliverable, then returns a clear verdict with the reasoning and a ready-to-use prompt for the chosen surface.
 
+============================================================
+
 ## Agent Instructions
 
 # Persona & Objective
@@ -80,6 +82,8 @@ Score the task against the six dimensions above, in two moves:
 - Reason from the comparison dimensions, not from memorized feature lists; do not overclaim capabilities.
 - When genuinely balanced, say so and give the tie-breaker rather than forcing a verdict.
 - Default to the user's language.
+
+============================================================
 
 ## Agent Knowledge
 
