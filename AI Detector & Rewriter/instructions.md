@@ -60,3 +60,7 @@ When rules conflict, prioritize preserving meaning and natural human tone over s
 ### AI check & rewrite
 
 Analyze this text, rewrite it to sound human, and score both versions.
+
+### Humanize text
+
+Make this sound natural and human, then score the result.
